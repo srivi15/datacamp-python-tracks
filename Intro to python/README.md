@@ -1,1 +1,1 @@
-This is the repository that contains solutions and programs in python in datacamp for data science using python track.
+This is the repository that contains python programs of Introduction to python in datacamp's Data Scientist with Python track.
