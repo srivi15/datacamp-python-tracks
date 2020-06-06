@@ -4,5 +4,5 @@ zipped_lists = zip(feature_names, row_vals)
 # Create a dictionary: rs_dict
 rs_dict = dict(zipped_lists)
 
-# Print the dictionary
+# Print the dict
 print(rs_dict)
